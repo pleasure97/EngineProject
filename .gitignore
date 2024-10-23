@@ -1,0 +1,5 @@
+# Core, Engine, Launch, Network 폴더 및 그 하위 파일 무시
+Core/
+Engine/
+Launch/
+Network/
